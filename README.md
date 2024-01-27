@@ -1,6 +1,6 @@
 Instacart Grocery Basket Analysis.
 
-Introduction
+#Introduction
 Instacart, an online grocery store operating through a mobile app, seeks to enhance its sales by uncovering insights into its customers’ purchasing behaviors. This README provides an overview of the project’s goal context, key questions, data set, and objectives.
 
 Context
